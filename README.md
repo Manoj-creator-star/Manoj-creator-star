@@ -1,8 +1,8 @@
-# <div align="center">🌊 Hello World, I'm Manojkumar Natarajan! 🌊</div>
+# 💫 Hello World, I'm Manojkumar Natarajan!
 
 <div align="center">
   
-![Data Engineering](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Analytics+Engineer;Data+Enthusiast;Cloud+Data+Specialist;BI+Developer)
+### **Data Professional | Analytics Engineer | Cloud Data Specialist**
 
 *Transforming raw data into actionable insights through modern data stack technologies*
 
@@ -10,9 +10,9 @@
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a passionate Data Professional with expertise in building scalable data solutions and transforming complex data into actionable business insights. I specialize in modern data stack technologies and cloud platforms.
 
 ```python
 class DataProfessional:
@@ -24,130 +24,97 @@ class DataProfessional:
         
     def get_skills(self):
         return {
-            "💾 Data Warehousing": ["Snowflake", "Databricks", "Azure Synapse"],
-            "🔄 Transformation": ["dbt", "Python", "SQL", "PySpark"],
-            "📊 Visualization": ["Power BI", "Tableau", "Apache Superset"],
-            "☁️ Cloud": ["Azure", "AWS", "Data Factory"],
-            "🎯 Core": ["Data Modeling", "ETL/ELT", "Dashboarding"]
+            "Data Warehousing": ["Snowflake", "Databricks", "Azure Synapse"],
+            "Transformation": ["dbt", "Python", "SQL", "PySpark"],
+            "Visualization": ["Power BI", "Tableau", "Apache Superset"],
+            "Cloud": ["Azure", "AWS", "Data Factory"],
+            "Core": ["Data Modeling", "ETL/ELT", "Dashboarding"]
         }
 ```
 
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Data Platforms & Warehousing**
-<div align="center">
-  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=2E86AB)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=2E86AB)
-![Azure Data Factory](https://img.shields.io/badge/ADF-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=2E86AB)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
 
 ### **Transformation & Processing**
-<div align="center">
-  
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=A23B72)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=A23B72)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=A23B72)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
 ### **BI & Visualization**
-<div align="center">
-  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F18F01)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F18F01)
-![Superset](https://img.shields.io/badge/Superset-21B2B7?style=for-the-badge&logo=apache-superset&logoColor=white&labelColor=F18F01)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-21B2B7?style=for-the-badge&logo=apache-superset&logoColor=white" />
+</p>
 
-</div>
-
-### **Cloud & Infrastructure**
-<div align="center">
-  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=C73E1D)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=C73E1D)
-
-</div>
+### **Cloud Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-
-| 🔥 Certification | Status | Focus Area |
-|:-----------------|:-------|:-----------|
+| Certification | Status | Focus Area |
+|---------------|--------|------------|
 | **Microsoft Certified: Fabric Data Engineer** | ✅ Active | Cloud Data |
 | **Databricks Certified Data Engineer** | ✅ Active | Big Data |
 | **AWS Certified Data Analytics – Specialty** | ✅ Active | Cloud Analytics |
 | **Microsoft Power BI Data Analyst** | ✅ Active | BI & Visualization |
 | **dbt Fundamentals** | ✅ Active | Data Transformation |
-| **Microsoft Fabric Analytics Engineer** | ✅ Active | Analytics |
-
-</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manoj-creator-star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=F18F01" alt="GitHub Stats" style="width: 100%;"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-creator-star&theme=radical&hide_border=true&background=0D1117&ring=2E86AB&fire=F18F01&currStreakLabel=2E86AB" alt="GitHub Streak" style="width: 100%;"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-creator-star&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-creator-star&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🚀 Current Focus & Learning
+## 🚀 Current Focus
 
-<div align="center">
-
-![Learning](https://img.shields.io/badge/🔬_Currently_Learning-Generative_AI-2E86AB?style=for-the-badge)
-![Exploring](https://img.shields.io/badge/🌱_Exploring-Advanced_Cloud_Engineering-A23B72?style=for-the-badge)
-![Building](https://img.shields.io/badge/💼_Working_On-Snowflake_+_dbt_+_Power_BI-F18F01?style=for-the-badge)
-
-</div>
+- 🔬 **Learning:** Generative AI & Advanced Cloud Engineering
+- 💼 **Working On:** Snowflake + dbt + Power BI projects
+- 🌱 **Exploring:** Real-time data processing and ML pipelines
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarlinkin/)
-[![Email](https://img.shields.io/badge/Email-nmanojkumardpi99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmanojkumardpi99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@Manoj--creator--star-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoj-creator-star)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Visitors](https://komarev.com/ghpvc/?username=manojkumarlinkin&label=Profile%20Views&color=2E86AB&style=for-the-badge)](https://github.com/Manoj-creator-star)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manojkumarlinkin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nmanojkumardpi99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Manoj-creator-star">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-## 🌟 **"Data is not just numbers, it's the story of your business waiting to be told."**
-
-### ⚡ *Fun Fact: I enjoy automating repetitive data processes and optimizing pipelines!*
+### 🌟 **"Data is not just numbers, it's the story of your business waiting to be told."**
 
 **Open to collaborating on innovative data projects and exciting opportunities!**
 
